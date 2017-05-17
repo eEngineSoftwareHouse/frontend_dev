@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: #fff;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.boxes > div {
+  border: 1px #fff solid;
+  padding: 15px;
+  margin-top: 15px;
+}

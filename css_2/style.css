@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: #fff;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.boxes > div {
+  display: inline-block;
+  padding: 15px;
+  width: 25%;
+}
