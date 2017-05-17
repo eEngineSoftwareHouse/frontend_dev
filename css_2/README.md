@@ -5,4 +5,4 @@ From some reason one of them is wrapped to another line. Fix this problem so the
 
 You can use whatever technique you want, but do not change `display` or `width` CSS property of the boxes. Keeping space between boxes is not necessary (they can "touch" each other).
 
-Describe in CSS comment why you choosed such solution.
+Describe in CSS comment why did you choose such solution.
